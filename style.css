@@ -39,3 +39,8 @@ section{
     background-repeat: no-repeat;
    
 }
+.big-dreem{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
